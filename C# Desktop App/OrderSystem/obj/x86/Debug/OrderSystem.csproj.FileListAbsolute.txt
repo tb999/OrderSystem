@@ -1,0 +1,48 @@
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\bin\Debug\OrderSystem.pdb
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.LoginForm.resources
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.Properties.Resources.resources
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.exe
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.pdb
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.exe
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.pdb
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.LoginForm.resources
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.Properties.Resources.resources
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.HomeForm.resources
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\bin\Debug\OrderSystem.pdb
+C:\Users\TomBurton\Documents\Visual Studio 2010\Projects\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.HomeForm.resources
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.PasswordReset.resources
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.ManageAccounts.resources
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.ManageStock.resources
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.ManageAdminAccounts.resources
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.FirstTimeLogin.resources
+C:\Users\TomBurton\Desktop\My Dropbox\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.AddOrder.resources
+C:\Users\TomBurton\Desktop\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.exe
+C:\Users\TomBurton\Desktop\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.pdb
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.exe
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.pdb
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\bin\Debug\OrderSystem.exe
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\bin\Debug\OrderSystem.pdb
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.AddOrder.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.FirstTimeLogin.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.HomeForm.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.LoginForm.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.ManageAccounts.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.ManageStock.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.PasswordReset.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.Properties.Resources.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.ManageOrders.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.Stats.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\OrderSystem.ManageStaffAccounts.resources
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\GenerateResource-cvtres.read.1.tlog
+C:\Users\TomBurton\Documents\My Dropbox\Year3\CO3808 - Project\OrderSystem\OrderSystem\obj\x86\Debug\GenerateResource-cvtres.write.1.tlog

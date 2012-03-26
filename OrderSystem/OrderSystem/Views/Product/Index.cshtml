@@ -1,0 +1,18 @@
+﻿@using OrderSystem.Models;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+         
+<table border="0" align="center">
+<tr>
+    @{foreach (Product m in ViewData.Model)
+        {
+            <td align="left">@m.ProductName<br />
+            @m.ProductDescription<br />
+            @m.ProductPrice<br /></td>
+        } 
+     }
+</tr>
+</table>

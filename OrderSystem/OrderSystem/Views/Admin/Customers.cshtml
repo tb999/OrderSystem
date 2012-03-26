@@ -1,0 +1,52 @@
+﻿@using OrderSystem.Models;
+@{
+    Layout = @Url.Content("~/Views/Shared/_Layout.cshtml");
+    ViewBag.Title = "Customers";
+}
+
+<h2>Customers</h2>
+   <div>
+        <table class="tablesorter">
+            <thead>
+                <tr>
+                    <th>Customer ID</th>
+                    <th>Forename</th>
+                    <th>Surname</th>
+                    <th>Email Address</th>
+                    <th>Post Code</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    foreach (Customer m in ViewData.Model)
+                    {            
+                    <tr>
+                        <td>@m.CustomerID</td>
+                        <td>@m.CustomerForename</td>
+                        <td>@m.CustomerSurname</td>
+                        <td>@m.CustomerEmail</td>
+                        <td>@m.CustomerPostcode</td>
+                        <td><button>Edit</button></td>
+                    </tr>
+                    }
+                }
+            </tbody>
+        </table>
+        <div id="pager" style="position: none;">
+            <form>
+            <img src="@Url.Content("~/Content/images/first.png")" class="first" />
+            <img src="@Url.Content("~/Content/images/prev.png")" class="prev" />
+            <input type="text" class="pagedisplay" />
+            <img src="@Url.Content("~/Content/images/next.png")" class="next" />
+            <img src="@Url.Content("~/Content/images/last.png")" class="last" />
+            <select class="pagesize">
+                <option selected="selected" value="5">5</option>
+                <option value="10">10</option>
+                <option value="20">20</option>
+                <option value="30">30</option>
+                <option value="40">40</option>
+            </select>
+            </form>
+        </div>
+    </div>

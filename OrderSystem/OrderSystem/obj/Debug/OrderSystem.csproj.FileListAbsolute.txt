@@ -1,0 +1,7 @@
+C:\Users\tom\Desktop\Order System MVC\OrderSystem\OrderSystem\bin\OrderSystem.dll
+C:\Users\tom\Desktop\Order System MVC\OrderSystem\OrderSystem\bin\OrderSystem.pdb
+C:\Users\tom\Desktop\Order System MVC\OrderSystem\OrderSystem\bin\EntityFramework.dll
+C:\Users\tom\Desktop\Order System MVC\OrderSystem\OrderSystem\bin\EntityFramework.xml
+C:\Users\tom\Desktop\Order System MVC\OrderSystem\OrderSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tom\Desktop\Order System MVC\OrderSystem\OrderSystem\obj\Debug\OrderSystem.dll
+C:\Users\tom\Desktop\Order System MVC\OrderSystem\OrderSystem\obj\Debug\OrderSystem.pdb
