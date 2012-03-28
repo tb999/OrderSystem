@@ -17,15 +17,32 @@ namespace OrderSystem.Controllers
         {
             return View();
         }
-
         public ActionResult Customers()
         {
             var dataContext = new CustomerDataContext();
-            var customers = from m in dataContext.Customers
-                            select m;
-
+            var customers = from m in dataContext.Customers select m;
             return View(customers);
         }
+        [AcceptVerbs(HttpVerbs.Post)]
+        public ActionResult Customers(string Email, string ID)
+        {
+            var dataContext = new CustomerDataContext();
+            if (Email != string.Empty)
+            {
 
+                var customers = dataContext.Customers.Where(m => m.CustomerEmail.ToUpper().Equals(Email));
+                return View(customers);
+            }
+            else if (ID != string.Empty)
+            {
+                var customers = dataContext.Customers.Where(m => m.CustomerID.Equals(ID));
+                return View(customers);
+            }
+            else
+            {
+                var customers = from m in dataContext.Customers select m;
+                return View(customers);
+            }
+        }
     }
 }

@@ -5,6 +5,15 @@
 }
 
 <h2>Customers</h2>
+
+@{using (Html.BeginForm())
+  {
+      @Html.Label("Customer ID")<br />
+      @Html.TextBox("ID")<br />
+      @Html.Label("Email Address")<br />
+      @Html.TextBox("Email")
+      <input type="submit" value="Search" />
+  }}
    <div>
         <table class="tablesorter">
             <thead>
